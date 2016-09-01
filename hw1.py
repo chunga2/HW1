@@ -254,9 +254,9 @@ def weave_carpet(width, height):
     Must use a helper function
 
     >>> weave_carpet(2,3)
-	XO
-	OX
-	XO
+    XO
+    OX
+    XO
     """
     # Your code goes here!
     pass  # Remove me after starting
