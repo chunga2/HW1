@@ -33,7 +33,7 @@ $ python hw1.py -v
 There will be no formal office hours this week. Starting next week, office hours will be held immediately after your Hackerspace section for 1 hour. If you have any questions, post them on Piazza or Slack on channel #slackOverflow.
 
 ## Submission
-Rename the hw1.py file to hw1_<your netid>.py. zip the python file and email it to "homework@cs196.xyz" .
+Rename the hw1.py file to hw1_yourNetIDHere.py. zip the python file and email it to "homework@cs196.xyz" .
 
 ## Bugs
 If you find any bugs, message me #achungsta or Ananya #ananyacleetus  on slack!
