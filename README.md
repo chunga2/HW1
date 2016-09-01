@@ -9,10 +9,10 @@ http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/functions.html
 
 ## Python Types
 http://www.learnpython.org/en/Variables_and_Types
-https://docs.python.org/2/library/types.html
+http://docs.python.org/2/library/types.html
 
 ## String Manipulation
-https://docs.python.org/2/library/string.html
+http://docs.python.org/2/library/string.html
 http://www.tutorialspoint.com/python/python_strings.html
 
 I will be covering these topics again briefly in lecture 2, due to the fact that we ran out of time during lecture 1 because of the Interview microlesson!
