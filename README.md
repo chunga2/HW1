@@ -4,15 +4,15 @@ Problem Set for week 1 - Strings, Types, Functions
 Homework 1 Covers Strings, Types, and Functions in python. Make sure you solve the problems in python 2.7, or else our autograder will not be able to intepret your solutions. Here is some documentation to learn the material:
 
 ## Python Functions
-http://www.tutorialspoint.com/python/python_functions.html
+http://www.tutorialspoint.com/python/python_functions.html <br />
 http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/functions.html
 
 ## Python Types
-http://www.learnpython.org/en/Variables_and_Types
+http://www.learnpython.org/en/Variables_and_Types <br />
 http://docs.python.org/2/library/types.html
 
 ## String Manipulation
-http://docs.python.org/2/library/string.html
+http://docs.python.org/2/library/string.html <br />
 http://www.tutorialspoint.com/python/python_strings.html
 
 I will be covering these topics again briefly in lecture 2, due to the fact that we ran out of time during lecture 1 because of the Interview microlesson!
