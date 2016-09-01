@@ -166,9 +166,9 @@ def remove_given_str(remove_str, word):
     Removes remove_str from word
 
     >>> print remove_given_str("H","Harry is hot in Hogwarts")
-    "arry is ot in ogwarts"
+    arry is ot in ogwarts
     >>> print remove_given_str("oops","Whoopsie, I made an oopsie. Oops!")
-    "Whie, I made an ie. !"
+    Whie, I made an ie. !
     """
     # Your code goes here!
     pass  # Remove me after starting
