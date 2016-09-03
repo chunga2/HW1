@@ -59,8 +59,6 @@ def csvify(raw_str):
 #
 # RETURN a string representing the integer parameter in binary.
 #
-# Note: Solutions must not use the `bin()` Python builtin.
-#
 #
 # Example(s)
 # ----------
