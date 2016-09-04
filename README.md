@@ -1,4 +1,4 @@
-# hw1
+# HW1
 Problem Set for week 1 - Strings, Types, Functions
 
 Homework 1 Covers Strings, Types, and Functions in python. Make sure you solve the problems in python 2.7, or else our autograder will not be able to interpret your solutions. Here is some documentation to learn the material:
